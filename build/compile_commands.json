@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/raj/Desktop/RAJ/ASCII_cam/build",
-  "command": "/usr/bin/g++  -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/ascii_cam.dir/src/main.cpp.o -c /home/raj/Desktop/RAJ/ASCII_cam/src/main.cpp",
-  "file": "/home/raj/Desktop/RAJ/ASCII_cam/src/main.cpp",
-  "output": "CMakeFiles/ascii_cam.dir/src/main.cpp.o"
-}
-]
